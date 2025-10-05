@@ -48,7 +48,7 @@ export default function ClientDashboard() {
                 <Users className="h-10 w-10 text-primary mb-4" />
                 <CardTitle>Client Focused</CardTitle>
                 <CardDescription>
-                  Your satisfaction is our top priority
+                  Your satisfaction is my top priority
                 </CardDescription>
               </CardHeader>
             </Card>
