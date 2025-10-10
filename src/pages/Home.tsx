@@ -10,7 +10,7 @@ export default function Home() {
       <section className="py-20 px-4 bg-gradient-to-b from-muted/30 to-background">
         <div className="container mx-auto text-center max-w-4xl">
           <div className="inline-block mb-4 px-4 py-2 bg-primary/10 rounded-full">
-            <span className="text-sm font-medium text-primary">Beginner Web Developer</span>
+            <span className="text-sm font-medium text-primary">Web Designer</span>
           </div>
           
           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
