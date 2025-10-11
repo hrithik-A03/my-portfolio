@@ -1,3 +1,4 @@
+import { defineConfig } from 'vite';
 import { useState } from "react";
 import ClientLayout from "@/layouts/ClientLayout";
 import {
